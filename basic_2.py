@@ -1,5 +1,5 @@
 # 숫자 up & down 게임 만들기
-# - while 과 if 문 활용
+## - while 과 if 문 활용
 import random
 
 rn = random.randrange(1, 101, 1)
