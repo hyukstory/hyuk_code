@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 14 11:35:12 2020
-
-@author: student
-"""
 
 # 문제 - data를 읽어서 for문을 사용해서 아래와 같이 출력하세요
 student = [{"name": "윤인성", "korean": 87, "math": 98, "english": 88, "science": 95},
@@ -184,4 +179,3 @@ print(student3)
 
 for st in student3:
     print(st.to_print())
-
