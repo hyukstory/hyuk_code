@@ -1,7 +1,6 @@
 ## 로또 번호 웹크롤링
 
 ### 로또 900회
-
 from bs4 import BeautifulSoup
 import requests
 
