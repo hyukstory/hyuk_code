@@ -23,7 +23,6 @@ len(data2)  # 테이블 안의 총 셀 개수
 adress = []
 
 i = 0
-
 f = open("명당리스트.txt", "a", encoding="UTF-8")
 
 for i in range(0, len(data2) // 5):
