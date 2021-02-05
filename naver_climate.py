@@ -1,5 +1,4 @@
 ## 네이버 날씨 웹크롤링
-
 from bs4 import BeautifulSoup
 import requests
 
